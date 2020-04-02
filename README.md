@@ -1,2 +1,3 @@
 # hello-world
-Uusi projekti
+my new project
+I made the first file in the project
